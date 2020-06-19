@@ -1,4 +1,4 @@
-# Deep Learning for Health and Life Sciences with ![pytorch-logo](./pytorch_logo_small.png)**
+# Deep Learning for Health and Life Sciences with ![pytorch-logo](./pytorch_logo_small.png)
 
 
 
@@ -26,7 +26,7 @@ Histopathological Images and Transfer Learning
 Few Notes on Model Interpretability
 
 
-**##### Requirements**
+##### Requirements
 
 
 
@@ -55,8 +55,16 @@ The complete list of requirements is available in [`requirements.txt`](requireme
 Detailed (**step-by-step**) instructions to setup the Python virtual environment on your local machine are also available [here](./setup.md).
 
 
+### MyBinder
 
-**##### License Summary**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leriomaggio/deep-learning-health-life-sciences/master)
+
+### Colab
+
+
+
+
+##### License Summary
 
 
 
@@ -72,11 +80,11 @@ The samples and reference code within this repository is made available under th
 
 
 
-**##### References** 
+##### References
 
 
 
-***\*Author\****: Valerio Maggio, ***\*Senior Research Associate\**** `@` Dynamic Genetics Lab 
+**Author**: Valerio Maggio, **Senior Research Associate** `@` Dynamic Genetics Lab 
 
 
 
