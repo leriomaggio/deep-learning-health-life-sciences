@@ -8,9 +8,11 @@ This workshop has been presented at the [**Data Week Online 2020**](http://www.b
 
 The introductory deck of slides to this tutorial is available on my [SpeakerDeck](https://speakerdeck.com/leriomaggio/) profile: 
 
-$\Rightarrow$  [Deep Learning for the Health and Life Sciences with PyTorch](https://speakerdeck.com/leriomaggio/deep-learning-for-health-and-life-sciences-with-pytorch). 
+[Deep Learning for the Health and Life Sciences with PyTorch](https://speakerdeck.com/leriomaggio/deep-learning-for-health-and-life-sciences-with-pytorch). 
 
-The **full abstract** of the workshop is available here: $\Rightarrow$ [Abstract](./abstract.md)
+The **full abstract** of the workshop is available here: [Abstract](./abstract.md)
+
+
 
 ### Content at a glance
 
