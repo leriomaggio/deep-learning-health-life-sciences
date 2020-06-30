@@ -58,10 +58,11 @@ If you don't want to bother setting up everything on your local computer (__and 
 
 The material provided in this repository adopts two different licence files, for Lecture notes and Source Code, respectively. 
 
-The Lecture notes (and corresponding source notebooks) are available under the **Creative Commons Attribution-ShareAlike 4.0 International License**. 
-See the `LICENSE` file.
+The Lecture notes (and corresponding source notebooks) are licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-The samples and reference code within this repository is made available under the **GNU GPL v3**. See the `LICENSE-CODE` file.
+The samples and reference code within this repository is made available under the **GNU GPL v3**.
+
+ See the `LICENSE` file.
 
 #### References
 
