@@ -1,0 +1,32 @@
+name: dl-biomed
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pillow
+  - pip=20.1.1
+  - python=3.7.6
+  - pytorch=1.4.0
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - torchvision=0.5.0
+  - pip:
+    - captum==0.2.0
+    - google-auth==1.18.0
+    - google-auth-oauthlib==0.4.1
+    - kaggle==1.5.6
+    - nptyping==1.1.0
+    - tensorboard==2.2.2
+    - tensorboard-plugin-wit==1.6.0.post3
+    - tqdm==4.46.1
+
