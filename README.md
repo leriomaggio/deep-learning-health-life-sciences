@@ -41,59 +41,38 @@ This tutorial runs on ***\*Python 3\**** (Py3.4+ should be fine), and requires t
 
 The complete list of requirements is available in [`requirements.txt`](./requirements.txt)
 
-
 Detailed (**step-by-step**) instructions to setup the Python virtual environment on your local machine are also available [here](./setup.md).
 
+If you don't want to bother setting up everything on your local computer (__and also have a pretty good internet connection_) you might also consider the following two alternatives:
 
-### MyBinder
+#### MyBinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leriomaggio/deep-learning-health-life-sciences/master)
 
-### Colab
+#### Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leriomaggio/deep-learning-heath-life-sciences)
 
 
-
-
-##### License Summary
-
-
+### License Summary
 
 The material provided in this repository adopts two different licence files, for Lecture notes and Source Code, respectively. 
 
+The Lecture notes (and corresponding source notebooks) are available under the **Creative Commons Attribution-ShareAlike 4.0 International License**. 
+See the `LICENSE` file.
 
+The samples and reference code within this repository is made available under the **GNU GPL v3**. See the `LICENSE-CODE` file.
 
-The Lecture notes (and corresponding source notebooks) are available under the ***\*Creative Commons Attribution-ShareAlike 4.0 International License\****. See the `LICENSE` file.
-
-
-
-The samples and reference code within this repository is made available under the ***\*GNU GPL v3\****. See the `LICENSE-CODE` file.
-
-
-
-##### References
-
-
+#### References
 
 **Author**: Valerio Maggio, **Senior Research Associate** `@` Dynamic Genetics Lab 
 
+<a href="http://dynamicgenetics.org" title="Dynamic Genetics Lab">
+<img src="./logos/dynamic_genetics.png" alt="Dynamic Genetics Logo" width="30%" />
+</a>
 
-
-<img src="./logos/uob_logo_small.png" alt="University of Bristol" style="display:inline;  margin-top: 0 !important;" />
-
-
-
-<a href="http://dynamicgenetics.org" title="Dynamic Genetics" target="_blank">
-
-<img src="./logos/dynamic_genetics.png" width="30%" alt="Dynamic Genetics" style="display:inline;" /></a>
-
-
-
-| Contact                                                                                  |
-
-| ----------------------------------------------------------------------------------- |
-
-| <img src="logos/twitter_small.png" alt="Twitter" style="display:inline"/> [`@leriomaggio`](http://twitter.com/leriomaggio) |
-
-| <img src="logos/linkedin_small.png" alt="LinkedIn" style="display:inline"/> [`ValerioMaggio`](http://it.linkedin.com/in/valeriomaggio) |
-
-| <img src="logos/gmail_small.png" alt="Mail" style="display:inline"/> [`valerio.maggio@bristol.ac.uk`]()     |
+| **Contacts** |
+| ------------ |
+|  <img src="logos/twitter_small.png" alt="Twitter" style="display:inline"/> [`@leriomaggio`](http://twitter.com/leriomaggio) |
+|       <img src="logos/linkedin_small.png" alt="LinkedIn" style="display:inline"/> [`ValerioMaggio`](http://it.linkedin.com/in/valeriomaggio)       |
+|       <img src="logos/gmail_small.png" alt="Mail" style="display:inline"/> [`valerio.maggio@bristol.ac.uk`](valerio.maggio@bristol.ac.uk)         |
