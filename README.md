@@ -1,55 +1,43 @@
 # Deep Learning for Health and Life Sciences with ![pytorch-logo](./pytorch_logo_small.png)
 
 
+This workshop has been presented at the [**Data Week Online 2020**](http://www.bristol.ac.uk/golding/get-involved/data-week-online-2020/) organised by the [**Jean Golding Insitute**](http://www.bristol.ac.uk/golding/) 
+
+![JGI Logo](./logos/jgi-logo.png "Jean Golding Institute")
+![UoB Logo](./logos/uob_logo_small.png "University of Bristol")
+
+The introductory deck of slides to this tutorial is available on my [SpeakerDeck](https://speakerdeck.com/leriomaggio/) profile: 
+
+$\Rightarrow$  [Deep Learning for the Health and Life Sciences with PyTorch](https://speakerdeck.com/leriomaggio/deep-learning-for-health-and-life-sciences-with-pytorch). 
+
+The **full abstract** of the workshop is available here: $\Rightarrow$ [Abstract](./abstract.md)
 
 ### Content at a glance
 
+* Introduction to ML and DL for the Health and Life Science
+	- Short introduction to PyTorch
 
+* Reproducibility and Replicability
+	- Replication Case study on Heart Failure
 
-The introductory deck of slides to this course can be found on my 
+* BioImages
+	- Diabetic Retinopathy from fundus images
+	- Histopathological Images and Transfer Learning
 
-[SpeakerDeck](https://speakerdeck.com/leriomaggio) profile: 
+* Few Notes on Model Interpretability
 
-
-
-$\rightarrow$ [Deep Learning and Artificial Intelligence 
-
-with PyTorch](https://speakerdeck.com/leriomaggio/deep-learning-with-pytorch) 
-
-
-Genetics & Genomics
-Cell classification from a cell-line
-Transcription Factor Binding
-BioImages
-Diabetic Retinopathy from fundus images
-Histopathological Images and Transfer Learning
-Few Notes on Model Interpretability
-
-
-##### Requirements
-
-
+### Technical Requirements
 
 This tutorial runs on ***\*Python 3\**** (Py3.4+ should be fine), and requires the following main packages:
 
+- `numpy`
+- `scipy`
+- `matplotlib`
+- `scikit-learn`
+- `torch` (of course 😄)
+- `torchvision`
 
-
-\- `numpy`
-
-\- `scipy`
-
-\- `matplotlib`
-
-\- `scikit-learn`
-
-\- `torch` (of course 😄)
-
-\- `torchvision`
-
-
-
-The complete list of requirements is available in [`requirements.txt`](requirements.txt)
-
+The complete list of requirements is available in [`requirements.txt`](./requirements.txt)
 
 
 Detailed (**step-by-step**) instructions to setup the Python virtual environment on your local machine are also available [here](./setup.md).
@@ -88,9 +76,7 @@ The samples and reference code within this repository is made available under th
 
 
 
-<img src="./logos/uob_logo_small.png" alt="University of Bristol" 
-
-​     style="display:inline;  margin-top: 0 !important;" />
+<img src="./logos/uob_logo_small.png" alt="University of Bristol" style="display:inline;  margin-top: 0 !important;" />
 
 
 
